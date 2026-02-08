@@ -1,5 +1,7 @@
-Store Rating Platform - FullStack Intern Coding Challenge
-📋 Project Overview
+**Store Rating Platform - FullStack Intern Coding Challenge**
+
+
+**📋 Project Overview**
 This is a full-stack web application that allows users to submit ratings for stores registered on the platform. The application features a role-based access control system with three distinct user roles, each with specific functionalities.
 
 User Roles:
